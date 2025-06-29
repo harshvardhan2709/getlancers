@@ -110,7 +110,7 @@ Please adhere to our coding standards and include tests with your contributions.
 
 ## 🧑‍💻 Contributors
 
-- **Harsh Vardhan** – *Initial work* – [@harshvardhan2709](https://github.com/harshvardhan2709)
+- **Harshvardhan Sawant** – *Initial work* – [@harshvardhan2709](https://github.com/harshvardhan2709)
 
 See the [contributors](https://github.com/harshvardhan2709/getlancers/graphs/contributors) page for others who’ve helped.
 
